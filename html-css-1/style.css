@@ -1,0 +1,94 @@
+body {
+   /*max-width: 40rem;
+   margin: 0 auto;*/
+   margin: 0;
+   text-align: center;
+   font-family: 'Kaisei Opti', serif;
+   font-weight: medium;
+   font-style: italic;
+  
+   background: rgb(240, 239, 226);
+   color: rgb(58, 58, 58);
+}
+
+header {
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.5rem;
+    background: rgb(161, 161, 156);
+}
+
+header h1 {
+
+    margin: 0;
+    font-size: 2rem;
+}
+
+header h2 {
+    font-weight: 200;
+
+}
+
+nav {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    line-height: 2em;
+}
+
+nav a {
+    margin: 0 1rem;
+    color: rgb(189, 182, 170);
+
+}
+
+nav a:hover {
+    color:rgb(133, 132, 123);
+}
+
+main {
+
+    max-width: 40rem;
+    margin: 0 auto;
+    padding:.5rem;
+}
+
+img {
+    width: 90%;
+    /*max-width: 35rem;*/
+    margin: 2rem;
+    display: block;
+  
+}
+
+section {
+    margin: 1rem 0;
+    border-left: .5rem solid rgb(161, 161, 156);
+}
+
+section h3 {
+    background: rgb(193, 192, 187);
+    margin: 0;
+    padding: .5rem;
+    font-style:italic;
+    text-align: left;
+ 
+}
+
+section p {
+    background: rgb(177, 177, 172);
+    margin: 0;
+    padding: .5rem;
+ 
+}
+
+footer {
+    background: lightblue;
+}
+
+footer p {
+    margin: 0;
+    background: rgb(161, 161, 156);
+    text-align: center;
+    padding: 2rem;
+}
+
