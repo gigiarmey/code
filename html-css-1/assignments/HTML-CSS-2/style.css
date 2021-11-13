@@ -66,21 +66,21 @@
      border-left: .5rem solid rgb(161, 161, 156);
  } */
  
- /* section h3 {
+ /* /* section h3 {
      background: rgb(193, 192, 187);
      margin: 0;
      padding: .5rem;
      font-style:italic;
      text-align: left;
    */
- }
+ /* } */ 
  
- section p {
+ /* section p {
      background: rgb(177, 177, 172);
      margin: 0;
      padding: .5rem;
   
- }
+ } */
  
  footer {
      background: lightblue;
